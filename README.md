@@ -1,2 +1,3 @@
-# web-php-sun
-web php project
+# sun sungkapong
+* รหัสนักศึกษา : 69319010025
+* แผนกวิชา : เทคโนโลยีสารสนเทศ
