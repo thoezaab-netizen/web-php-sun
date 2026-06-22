@@ -39,6 +39,7 @@
         <input type="checkbox" name="hobby[]" value="basketball"> บาสเกตบอล
         <input type="checkbox" name="hobby[]" value="tennis"> เทนนิส
         <br>
+        <button type="reset">ล้างข้อมูล</button>
         <button type="submit">ส่งข้อมูล</button>
    </form>
 </body>
