@@ -9,14 +9,14 @@
 <body>
     <form action="week5.receive.php" method="get">
         <label>User name</label>
-        <input type="text" name="Username">
+        <input type="text" name="Username" required>
         <br>
 
         <label>Password</label>
-        <input type="password" name="UserPass">
+        <input type="password" name="UserPass" required>
         <br>
         <label>Email</label>
-        <input type="email" name="UserEmail">
+        <input type="email" name="UserEmail" required>
         <br>
         <label>Age</label>
         <input type="number" name="UserAge">
