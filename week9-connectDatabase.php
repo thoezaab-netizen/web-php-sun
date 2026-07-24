@@ -1,11 +1,13 @@
 <?php
 $host = 'localhost';
+$dbname = 'school';
 $username = 'root';
 $password = '';
 
+
 try {
     $pdo = new PDO(
-        "mysql:host=$host;charset=utf8mb4",
+        "mysql:host=$host;dbname=$dbname;charset=utf8mb4",
         $username,
         $password
     );
